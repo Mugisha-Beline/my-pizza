@@ -24,7 +24,7 @@ The website is expected to function as follows:
 * Markdown Syntax
 
 ## Live page
-/home/beline/Documents/my-pizza/index.html
+https://home/beline/Documents/my-pizza/index.html
 
 ## Support and contact details
 
