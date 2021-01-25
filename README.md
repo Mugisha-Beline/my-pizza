@@ -24,7 +24,7 @@ The website is expected to function as follows:
 * Markdown Syntax
 
 ## Live page
-https://home/beline/Documents/my-pizza/index.html
+https://mugisha-beline.github.io/my-pizza/
 
 ## Support and contact details
 
